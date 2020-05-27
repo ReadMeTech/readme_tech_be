@@ -16,6 +16,7 @@ gem 'figaro'
 gem 'graphql'
 gem 'search_object_graphql'
 gem 'travis'
+gem 'acts-as-taggable-on'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
